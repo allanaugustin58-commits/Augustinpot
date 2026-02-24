@@ -35,9 +35,9 @@ const Home = () => {
                 whileHover={{ scale: 1.02 }}
               >
                 <h2 className="text-primary-500 text-xl md:text-2xl font-mono mb-2">Hello, my name is</h2>
-                <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold">
+                <h4 className="text-4xl md:text-6xl lg:text-7xl font-bold">
                   Augustin Singizimana
-                </h1>
+                </h4>
               </motion.div>
               
               <h2 className="text-3xl md:text-5xl text-white/80 font-bold mb-8">
